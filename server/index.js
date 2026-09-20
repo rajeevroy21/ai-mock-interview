@@ -18,6 +18,15 @@ app.use(cors({
 app.use(express.json())
 app.use(cookieParser())
 
+// Health route
+app.get("/health", (req, res) => {
+  res.status(200).json({
+    success: true,
+    message: "InterviewPilot API is running",
+    status: "healthy",
+  });
+});
+
 app.use("/api/auth" , authRouter)
 app.use("/api/user", userRouter)
 app.use("/api/interview" , interviewRouter)
