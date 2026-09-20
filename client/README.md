@@ -1,4 +1,4 @@
-# InterviewIQ Client Application 🎨
+# InterviewPilot Client Application 🎨
 
 This folder contains the React frontend application built using **Vite**, **Tailwind CSS (v4)**, and **Redux Toolkit**.
 

@@ -1,6 +1,6 @@
-# InterviewIQ🤖✨
+# InterviewPilot🤖✨
 
-InterviewIQ is a state-of-the-art, AI-powered mock interview preparation platform designed to help candidates build confidence, refine their communication skills, and ace real-world job interviews. By combining AI-driven resume parsing, customized question generation, interactive voice-synchronized avatars, and instant performance feedback, InterviewIQ acts as a personal, 24/7 mock interviewer.
+InterviewPilot is a state-of-the-art, AI-powered mock interview preparation platform designed to help candidates build confidence, refine their communication skills, and ace real-world job interviews. By combining AI-driven resume parsing, customized question generation, interactive voice-synchronized avatars, and instant performance feedback, InterviewPilot acts as a personal, 24/7 mock interviewer.
 
 ---
 ## 🌐 Live Demo
@@ -80,7 +80,7 @@ InterviewIQ is a state-of-the-art, AI-powered mock interview preparation platfor
 ## 📁 Project Structure
 
 ```text
-interviewIQ/
+InterviewPilot/
 ├── client/                     # Frontend Application (Vite + React)
 │   ├── public/                 # Static Assets
 │   ├── src/
@@ -167,8 +167,8 @@ Follow these steps to run the application locally.
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-username/interviewIQ.git
-cd interviewIQ
+git clone https://github.com/your-username/InterviewPilot.git
+cd InterviewPilot
 ```
 
 ### Step 2: Configure & Start Backend Server

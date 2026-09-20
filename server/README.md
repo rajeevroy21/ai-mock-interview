@@ -1,4 +1,4 @@
-# InterviewIQ Backend API Server ⚙️
+# InterviewPilot Backend API Server ⚙️
 
 This folder contains the Node.js / Express backend server that serves the REST API endpoints and integrates with MongoDB, OpenRouter, and Razorpay.
 
