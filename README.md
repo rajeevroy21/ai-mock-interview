@@ -249,13 +249,3 @@ graph TD
 * `POST /verify` - Validates the webhook/callback signature from Razorpay. Increments user credits on success.
 
 ---
-
----
-
-<div align="center">
-
-### ❤️ Built with love, powered by coffee ☕, and held together by a very long YouTube tutorial 📺
-
-**— Latika Manoj Ray**
-
-</div>
